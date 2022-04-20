@@ -14,7 +14,7 @@
 <body>
     <header>
         <div class="logo2">
-            <img src="../gambar/Logo.png" alt="mylogo" title="Loker Karawang">
+            <img src="../gambar/LOGO.png" alt="mylogo" title="Loker Karawang">
         </div>
     </header>
     <div class="wrap">
