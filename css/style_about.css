@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+    box-sizing: border-box;
+}
+
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../gambar/latar.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 25px;
+    padding-top: 30px;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.5s ease;
+}
+
+ul li a:hover{
+    background-color: rgba(71, 4, 36, 0.733);
+    color: #fff;
+}
+
+ul li.active a{
+    background-color: rgba(71, 4, 36, 0.733);
+    color: #fff;
+}
+
+.logo img{
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-right: 440px;
+}
+
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.about{
+    width: 100%;
+    padding: 78px 0px;
+    background-color: rgba(0, 0, 0, 0.986);
+}
+
+.badan p{
+    color: #fcfc;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+
+.logo-2{
+    width: 420px;
+    height: auto;
+}
+
+.badan{
+    width: 550px;
+}
+
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.badan h1{
+    color: white;
+    font-size: 50px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    font-weight: 600;
+}

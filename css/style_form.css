@@ -1,0 +1,143 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica;
+}
+.logo2 img{
+    width: 100px;
+    height: auto;
+    margin-left: 60px;
+}
+
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../gambar/latar.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.logo{
+    width: 85px;
+    height: auto;
+}
+.wrap{
+    width: 50%;
+    margin: auto;
+    color: white;
+    border-radius: 10px;
+    font-weight: 300;
+    background: linear-gradient(to right, #320544, #5e0a23);
+    box-shadow: black;
+}
+
+.container{
+    padding: 5px;
+    margin: 10%;
+    box-shadow: black;
+}
+
+.container h1{
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+
+table{
+    margin: auto;
+    padding-bottom: 5px;
+}
+
+table td{
+    padding: 5px;
+    font-size: 15px;
+}
+
+button{
+    width: 50px;
+    font-family: Helvetica;
+    height: 30px;
+    text-align: center;
+    background-color: transparent;
+    border: 0px;
+    color: white;
+    cursor: pointer;
+    font-weight: 450;
+}
+
+button:hover{
+    background-color: #5e0a23;
+    color: antiquewhite;
+    
+}
+
+.tombol{
+    font-family: Helvetica;
+    font-weight: 600;
+    padding: 0px 10px;
+}
+
+.container .form-control{
+    max-width: 250px;
+    display: inline-flex;
+    margin: 10px 5px;
+    border-radius: 0;
+    box-shadow: none !important;
+    border: none !important;
+    font-size: 15px;
+}
+
+.btn-primary{
+    height: 40px;
+    background-image: linear-gradient(to right, #320544, #5e0a23);
+    padding: 7px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.container .btn-primary{
+    padding: 0 5px;
+    border-radius: 0;
+    box-shadow: none !important;
+    background: transparent;
+    border: 0px solid #fff;
+    transition: 0.5s ease;
+    align-items: center;
+}
+
+.btn-primary{
+    padding: 0 20px;
+    border-radius: 0;
+    box-shadow: none !important;
+    background: transparent;
+    border: 0px solid #fff;
+    transition: 0.5s ease;
+    align-items: center;
+}
+
+#footer{
+    background: linear-gradient(to right, #320544,#5e0a23);
+    padding: 10px 10px 8px;
+}
+
+.footer-image{
+    margin: 20px 0;
+    width: 150px;
+    height: auto;
+    margin-left: 585px;
+}
+
+#footer h1{
+    color: rgb(194, 187, 187);
+    font-family: sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+#footer p{
+    color: rgb(194, 187, 187);
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-bottom: 40px;
+    text-align: center;
+}
