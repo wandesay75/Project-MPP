@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
     <title> LOKER-KRW </title>
     <link rel="shortcut icon" href="../gambar/MyLogo.png">
     <link rel="stylesheet" type="text/css" href="../css/style_form.css">
@@ -18,12 +19,13 @@
             <img src="../gambar/LOGO.png" alt="mylogo" title="Loker Karawang">
         </div>
     </header>
-    <div class="wrap">
+    <div class="wrap text-center">
         <div class="container text-center">
             <img src="../gambar/Pupuk_Kujang.png" class="logo">
             <h1>APPLY JOB - PT. Pupuk Kujang</h1><br>
+            <a href="../loker.html"><button class="btn-primary2">Kembali</button></a>
             <form action="form_add_aksi.php" method="POST">
-                <table>
+                <table class="text-center">
                     <tr>
                         <td>Nama Lengkap</td>
                         <td>:</td>
@@ -98,7 +100,7 @@
                     <tr>
                         <td>Masukan CV Anda</td>
                         <td>:</td>
-                        <td><input type="file" name="file"></td>
+                        <td><input type="file" name="file" class="form-control"></td>
                     </tr>
                     <tr>
                         <td></td>
@@ -111,7 +113,6 @@
                     </tr>
                 </table>
             </form>
-            <a href="../loker.html"><button class="btn-primary2">Kembali</button></a>
         </div>
     </div>
     <div>

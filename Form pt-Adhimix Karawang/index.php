@@ -21,8 +21,8 @@
     </header>
     <div class="wrap">
         <div class="container text-center">
-            <img src="../gambar/AHM.png" class="logo">
-            <h1>APPLY JOB - PT. AHM Karawang</h1><br>
+            <img src="../gambar/Adhimix.png" class="logo">
+            <h1>APPLY JOB - PT. Adhimix Karawang</h1><br>
             <a href="../loker.html"><button class="btn-primary2">Kembali</button></a>
             <form action="form_add_aksi.php" method="POST">
                 <table>
@@ -120,7 +120,7 @@
             <td></td>
         </table>
     </div>
-<section id="footer" class="text-center">
+<section id="footer">
     <img src="../gambar/MyLogo.png" class="footer-image" alt="my-logo2" title="LOKER Karawang">
     <h1><b> Copyright © 2022 </b></h1>
     <p> By Kelompok 1 MPP</p>
