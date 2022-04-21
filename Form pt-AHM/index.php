@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> LOKER-KRW </title>
+    <link rel="shortcut icon" href="../gambar/MyLogo.png">
     <link rel="stylesheet" type="text/css" href="../css/style_form.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -119,7 +120,7 @@
         </table>
     </div>
 <section id="footer">
-    <img src="../gambar/Logo LOKER.png" class="footer-image" alt="my-logo2" title="LOKER Karawang">
+    <img src="../gambar/MyLogo.png" class="footer-image" alt="my-logo2" title="LOKER Karawang">
     <h1><b> Copyright © 2022 </b></h1>
     <p> By Kelompok 1 MPP</p>
 </section>

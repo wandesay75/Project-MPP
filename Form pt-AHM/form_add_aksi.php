@@ -19,6 +19,8 @@ if (isset($_POST['Kirim'])) {
 
     if ($result) {
         echo "<script>alert('Data anda telah berhasil di kirim, silahkan tunggu balasan di email anda');window.location='index.php'</script>";
+    } else{
+        echo "<script>alert('Data anda tidak dapat dikirim, harap isi dengan benar');window.location='index.php'</script>";
     }
 }
 ?>

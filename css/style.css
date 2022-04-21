@@ -166,6 +166,10 @@ ul li.active a{
     transition: 0.5s ease;
 }
 
+.page-link{
+    margin: 0 400px;
+    align-content: center;
+}
 
 .page-link li{
     height: 25px;
@@ -174,6 +178,7 @@ ul li.active a{
     display: inline-table;
     cursor: pointer;
     transition: 0.5s ease;
+    margin: auto;
 }
 
 .page-link li a{
