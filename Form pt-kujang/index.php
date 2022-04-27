@@ -23,7 +23,7 @@
         <div class="container text-center">
             <img src="../gambar/Pupuk_Kujang.png" class="logo">
             <h1>APPLY JOB - PT. Pupuk Kujang</h1><br>
-            <a href="../loker.html"><button class="btn-primary2">Kembali</button></a>
+            <a href="../loker.html"><button class="btn-primary">Kembali</button></a>
             <form action="form_add_aksi.php" method="POST">
                 <table class="text-center">
                     <tr>

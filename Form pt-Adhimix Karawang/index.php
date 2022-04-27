@@ -23,7 +23,7 @@
         <div class="container text-center">
             <img src="../gambar/Adhimix.png" class="logo">
             <h1>APPLY JOB - PT. Adhimix Karawang</h1><br>
-            <a href="../loker.html"><button class="btn-primary2">Kembali</button></a>
+            <a href="../loker.html"><button class="btn-primary">Kembali</button></a>
             <form action="form_add_aksi.php" method="POST">
                 <table>
                     <tr>
@@ -40,7 +40,7 @@
                         <td>Kecamatan</td>
                         <td>:</td>
                         <td>
-                            <select name="Kecamatan" class="form-control">
+                            <select name="Kecamatan" class="form-control text-center">
                                 <option class="text-center">--Pilih Kecamatan--</option>
                                 <option>Banyusari</option>
                                 <option>Batujaya</option>
